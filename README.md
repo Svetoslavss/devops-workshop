@@ -85,8 +85,8 @@ docker run -p 5000:5000 backend:latest</code></pre>
   </ul>
   <p>You can access the images directly from Docker Hub:</p>
   <ul>
-    <li><a href="https://hub.docker.com/r/yourusername/frontend" target="_blank">Frontend Docker Hub Repository</a></li>
-    <li><a href="https://hub.docker.com/r/yourusername/backend" target="_blank">Backend Docker Hub Repository</a></li>
+    <li><a href="https://hub.docker.com/r/svetoslavds/frontend" target="_blank">Frontend Docker Hub Repository</a></li>
+    <li><a href="https://hub.docker.com/r/svetoslavds/backend" target="_blank">Backend Docker Hub Repository</a></li>
   </ul>
 
   <h2>Contributing</h2>
