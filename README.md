@@ -1,10 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>React with NodeJS Backend and MongoDB - CI/CD Pipeline</title>
-</head>
 <body>
   <h1>React with NodeJS Backend and MongoDB - CI/CD Pipeline</h1>
 
