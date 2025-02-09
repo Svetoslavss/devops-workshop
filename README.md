@@ -7,7 +7,7 @@
     This project is a <strong>React</strong> application that connects to a <strong>NodeJS backend</strong> and utilizes <strong>MongoDB</strong> for data storage. The application is designed to showcase a full-stack setup with frontend and backend components, along with a database.
   </p>
   <p>
-    The project is integrated with a <strong>CI/CD pipeline</strong> using <strong><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Actions-Logo.svg" alt="GitHub Actions Logo" width="15" height="15">GitHub Actions</strong>, allowing automated building, testing, and deployment of both the frontend and backend applications to <strong><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Docker_%28container_engine%29_logo.png" alt="Docker Logo" width="15" height="15">Docker Hub</strong>.
+    The project is integrated with a <strong>CI/CD pipeline</strong> using <strong><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/GitHub_Actions_Logo.svg" alt="GitHub Actions Logo" width="15" height="15">GitHub Actions</strong>, allowing automated building, testing, and deployment of both the frontend and backend applications to <strong> <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Docker_logo.png" alt="Docker Logo" width="15" height="15">Docker Hub</strong>.
   </p>
 
   <h2>Features</h2>
