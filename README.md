@@ -9,12 +9,12 @@
   </strong>
   with
   <strong>
-    <img src="https://nodejs.org/static/images/logo.svg" alt="NodeJS Logo" width="16" height="16">
+    <img src="https://nodejs.org/static/images/logo.svg" alt="NodeJS Logo" width="17" height="18">
     NodeJS
   </strong>
   Backend and
   <strong>
-    <img src="https://webimages.mongodb.com/_com_assets/cms/kuyj1m8j2j37w132e-horizontal_white.svg" alt="MongoDB Logo" width="16" height="16">
+    <img src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB Logo" width="16" height="16">
     MongoDB
   </strong>
 </p>
