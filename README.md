@@ -68,8 +68,7 @@
 
   <h2>Setting Up the Project Locally</h2>
   <h3>1. Clone the repository</h3>
-  <pre><code>git clone https://github.com/yourusername/your-repository.git
-cd your-repository</code></pre>
+  <pre><code>git clone https://github.com/Svetoslavss/devops-workshop.git</code></pre>
 
   <h3>2. Install Dependencies</h3>
   <p><strong>Frontend:</strong></p>
