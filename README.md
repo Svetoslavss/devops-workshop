@@ -9,16 +9,15 @@
   </strong>
   with
   <strong>
-    <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="NodeJS Logo" width="16" height="16">
+    <img src="https://nodejs.org/static/images/logo.svg" alt="NodeJS Logo" width="16" height="16">
     NodeJS
   </strong>
   Backend and
   <strong>
-    <img src="https://www.mongodb.com/assets/images/global/leaf.svg" alt="MongoDB Logo" width="16" height="16">
+    <img src="https://webimages.mongodb.com/_com_assets/cms/kuyj1m8j2j37w132e-horizontal_white.svg" alt="MongoDB Logo" width="16" height="16">
     MongoDB
   </strong>
 </p>
-
   <h2>About</h2>
   <p>
     This project is a <strong>React</strong> application that connects to a <strong>NodeJS backend</strong> and utilizes <strong>MongoDB</strong> for data storage. The application is designed to showcase a full-stack setup with frontend and backend components, along with a database.
