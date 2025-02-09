@@ -9,7 +9,7 @@
   </strong>
   with
   <strong>
-    <img src="https://nodejs.org/static/images/logo.svg" alt="NodeJS Logo" width="17" height="18">
+    <img src="https://nodejs.org/static/images/logo.svg" alt="NodeJS Logo" width="19" height="19">
     NodeJS
   </strong>
   Backend and
