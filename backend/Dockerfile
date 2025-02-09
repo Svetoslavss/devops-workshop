@@ -3,11 +3,11 @@ FROM node:lts-buster-slim AS development
 # Create app directory
 WORKDIR /usr/src/app
 
-COPY package.json /usr/src/app/package.json
-COPY package-lock.json /usr/src/app/package-lock.json
+COPY ./backend/package.json /usr/src/app/package.json
+COPY ./backend/package-lock.json /usr/src/app/package-lock.json
 RUN npm ci
 
-COPY . /usr/src/app
+COPY ./backend /usr/src/app
 
 EXPOSE 3000
 
