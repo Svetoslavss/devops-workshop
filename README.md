@@ -9,15 +9,14 @@
 <p>
     The project is integrated with a <strong>CI/CD pipeline</strong> using 
     <strong>
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Actions-Logo.svg" 
+        <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" 
              alt="GitHub Actions Logo" width="15" height="15"> GitHub Actions
     </strong>, allowing automated building, testing, and deployment of both the frontend and backend applications to 
     <strong>
-        <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" 
+        <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" 
              alt="Docker Logo" width="15" height="15"> Docker Hub
     </strong>.
 </p>
-
 
   <h2>Features</h2>
   <ul>
