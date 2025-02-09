@@ -1,19 +1,20 @@
 <!DOCTYPE html>
 <body>
-  <h1>React with NodeJS Backend and MongoDB - CI/CD Pipeline</h1>
+<h1>React with NodeJS Backend and MongoDB - CI/CD Pipeline</h1>
+
 <p>
   <strong>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="16" height="16">
     React
   </strong>
   with
   <strong>
-    <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="NodeJS Logo" width="50" height="50">
+    <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="NodeJS Logo" width="16" height="16">
     NodeJS
   </strong>
   Backend and
   <strong>
-    <img src="https://www.mongodb.com/assets/images/global/leaf.svg" alt="MongoDB Logo" width="50" height="50">
+    <img src="https://www.mongodb.com/assets/images/global/leaf.svg" alt="MongoDB Logo" width="16" height="16">
     MongoDB
   </strong>
 </p>
